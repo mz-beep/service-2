@@ -1,0 +1,11 @@
+{
+  "name": "service-2",
+  "version": "1.0.0",
+  "description": "Service 2 for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
+
