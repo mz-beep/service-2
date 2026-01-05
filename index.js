@@ -4,7 +4,7 @@ console.log('Service 2 started');
 console.log('Config:', config);
 
 function main() {
-  console.log('Running service 2...');
+  console.log('Running service 2...rrrrr');
 }
 
 main();
